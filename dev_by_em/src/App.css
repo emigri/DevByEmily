@@ -1,0 +1,24 @@
+/* Style of specific componant */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* media queries to apply different styles for different devices and media types 
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+*/
+/* Specifies animation in CSS
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
