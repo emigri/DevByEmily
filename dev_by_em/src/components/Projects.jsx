@@ -31,12 +31,44 @@ function Projects() {
       price: "HTML, Tailwind CSS, JS, React",
       imageSrc: "https://placehold.co/600x600",
       imageAlt: "Describe image for Project Four"
+    },
+    {
+      id: 5,
+      name: "Project Five",
+      href: "#",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
+      imageAlt: "Describe image for Project Five"
+    },
+    {
+      id: 6,
+      name: "Project Six",
+      href: "#",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
+      imageAlt: "Describe image for Project Six"
+    },
+    {
+      id: 7,
+      name: "Project Seven",
+      href: "#",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
+      imageAlt: "Describe image for Project Seven"
+    },
+    {
+      id: 8,
+      name: "Project Eight",
+      href: "#",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
+      imageAlt: "Describe image for Project Eight"
     }
   ];
 
   return (
     <>
-      <div className="bg-white">
+      <div id="projects" className="bg-white">
         <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
           <h2 className="sr-only">Products</h2>
 

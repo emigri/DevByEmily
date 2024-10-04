@@ -1,7 +1,7 @@
 function Hero() {
   const navigation = [
     { name: "About", href: "#" },
-    { name: "Projects", href: "#" },
+    { name: "Projects", href: "#projects" },
     { name: "Contact", href: "#" }
   ];
 
@@ -28,7 +28,6 @@ function Hero() {
 
       {/* Hero Section */}
       <div className="relative isolate px-6 pt-14 lg:px-8">
-
         {/* Backgroung Styling */}
         {/* <div
           aria-hidden="true"
@@ -44,6 +43,10 @@ function Hero() {
         </div> */}
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="text-center">
+            {/* <Typed>
+              strings = {["Hi, I'm Emily"]}
+              typeSpeed={150}
+            </Typed> */}
             <h1 className="text-balance text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               Hi, I'm Emily Grivot
             </h1>

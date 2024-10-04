@@ -14,14 +14,6 @@ function About() {
               Section introducing myself and an illustration of my work
               experience, and skills
             </p>
-            <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                href="#"
-                className="text-sm font-semibold leading-6 text-gray-900"
-              >
-                Let's have a conversation
-              </a>
-            </div>
           </div>
         </div>
       </div>
