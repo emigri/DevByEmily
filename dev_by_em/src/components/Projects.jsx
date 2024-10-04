@@ -4,36 +4,32 @@ function Projects() {
       id: 1,
       name: "Tea Round Maker",
       href: "#",
-      price: "Vue",
-      imageSrc:
-        "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      price: "HTML, Tailwind CSS, JS, Vue",
+      imageSrc: "https://placehold.co/600x600",
       imageAlt: "Tea round maker"
     },
     {
       id: 2,
-      name: "Project Two",
+      name: "Weather Dashboard",
       href: "#",
-      price: "HTML, CSS, JS, React",
-      imageSrc:
-        "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
       imageAlt: "Describe image for project two"
     },
     {
       id: 3,
       name: "Project Three",
       href: "#",
-      price: "HTML, CSS, JS, React",
-      imageSrc:
-        "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
       imageAlt: "Description of image for Project Three"
     },
     {
       id: 4,
       name: "Project Four",
       href: "#",
-      price: "HTML, CSS, JS, React",
-      imageSrc:
-        "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      price: "HTML, Tailwind CSS, JS, React",
+      imageSrc: "https://placehold.co/600x600",
       imageAlt: "Describe image for Project Four"
     }
   ];
